@@ -1,4 +1,6 @@
 # Tetracolor
 final project for Gray Area Creative Code Immersive
 
-Code for Arduino 
+
+
+Video of final sculpture using this code can be seen here: https://youtu.be/twEAdoedZ2M
